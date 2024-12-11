@@ -55,3 +55,5 @@ This repository is designed for testing purposes, so direct contributions are no
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
+
+![Alt](https://repobeats.axiom.co/api/embed/ac5917f093115da3501805df39bf468e8e9e2064.svg "Repobeats analytics image")
